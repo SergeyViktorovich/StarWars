@@ -11,7 +11,7 @@ public class Task6 {
 
     int i = 0;
         while (i <= 10) {
-            out.println(i + " x " + k + " = " + i * k);
+            System.out.println(i + " x " + k + " = " + i * k);
             i++;
         }
     }
